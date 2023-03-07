@@ -1,4 +1,4 @@
-# A_byte_of_me
-General profile description using HTML, CSS, JS...
+# Check mi profile!
+https://juanstor.github.io/A_byte_of_me/
 
-You can check the site in the following link https://juanstor.github.io/A_byte_of_me/
+General profile description using HTML, CSS, JS, packages and more.
